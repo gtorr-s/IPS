@@ -1,0 +1,11 @@
+{
+  "dependencies": [
+    "fastapi",
+    "uvicorn",
+    "python-multipart",
+    "pillow",
+    "python-jose",
+    "slowapi",
+    "redis"
+  ]
+}
