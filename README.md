@@ -89,3 +89,5 @@ Watermark com imagem (além de texto)
 👨‍💻 Autor
 Torres — Projeto criado para estudo de backend moderno com Python FastAPI.
 
+https://roadmap.sh/projects/image-processing-service
+
